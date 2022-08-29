@@ -89,10 +89,10 @@
 /* Services */
 
 .subtitulo{
-    color: #9f8ad0;
+    color: #492b2b;
     font-size: 40px;
     text-align: center;
-    font-weight: 300;
+    font-weight: 100px;
     margin-bottom: 30px;
 }
 
@@ -117,20 +117,20 @@
 
 .n-service{
     margin-bottom: 7px;
-    color: #9f8ad0;
+    color: #440404;
 }
 
 .number{
     display: inline-block;
     /* 02 */
-    background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+    background-image: linear-gradient(to top, #d0d678 0%, #fbc2eb 100%);
     line-height: 30px;
     text-align: center;
     border-radius: 50%;
     margin-right: 5px;
     width: 30px;
     height: 30px;
-    color: #fff;
+    color: rgb(8, 6, 6);
     font-weight: 700;
 }
 
@@ -218,7 +218,7 @@
 }
 
 footer{
-    background: #9f8ad0;
+    background: #2b1b1b;
     padding-bottom: 0.1px;
 }
 
@@ -236,7 +236,7 @@ footer{
     width: 100%;
     color: #fff;
     text-align: center;
-    color: black;
+    color: rgb(231, 226, 226);
 }
 
 .brand{
@@ -281,7 +281,7 @@ footer{
 
 .social-media-icon:hover{
     background: #fff;
-    color:#764ba2;
+    color:#00ff40;
 }
 
 .paracarta{
@@ -291,6 +291,6 @@ footer{
     font-size: 30px;
 }
 #titulo11{
-    color: black;
+    color: rgb(247, 54, 54);
 }
 
